@@ -1,0 +1,15 @@
+Button {
+	-fx-background-color: #FFFFFF; 
+	-fx-font-size: 28;
+	-fx-pref-height:65;
+	-fx-pref-width:60;
+}
+
+Button:hover {
+	-fx-background-color: lightblue;
+}
+
+TextField {
+	-fx-alignment: RIGHT;
+	-fx-font-size: 28;
+}
